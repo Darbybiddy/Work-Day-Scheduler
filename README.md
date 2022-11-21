@@ -1,23 +1,49 @@
-# Work-Day-Scheduler
+# Work Day Scheduler
+
+  <img src= "./assets/images/screenshot.png">
+  <img src= "https://img.shields.io/badge/License--green.svg">
+       
+  ## Description
+  Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+  
+  ## Table of Contents
+
+  *[Installation](#installation)
+
+  *[Usage](#usage)
+
+  *[License](#license)
+
+  *[Contributing](#contributing)
+
+  *[Test](#test)
+
+  *[Questions](#questions)
+  
+  
+  ## Installation
+
+  npm install
+  
+  ## Usage
+
+  type out your schedule and itll record it
+  
+  ## License
+  
+  This project is licensed under 
+
+  ## Contributing
+
+  myself and tutors 
+  
+  ## Test
+
+  type out your schedule and save 
+  
+  ## Questions
+
+To see more of my projects, go to [darbybiddy](https://github.com/darbybiddy)
+If you have any questions, you can contact me at [darbybiddy3@gmail.com](mailto:darbybiddy3@gmail.com)
 
 
-## Acceptance Criteria
-
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
-
-The following animation demonstrates the application functionality:
-
-![Work Day Scheduler app with color-coded time slots shows a new event being typed in the 5PM slot.](./Assets/05-third-party-apis-homework-demo.gif)
